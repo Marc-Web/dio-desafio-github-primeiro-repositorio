@@ -1,0 +1,5 @@
+Links úteis
+
+Link para acesso a informações básicas sobre git:
+
+https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
